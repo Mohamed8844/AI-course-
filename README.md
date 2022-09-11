@@ -1,2 +1,2 @@
-# AI-course-
+# AI-course
 AI &amp; Data science projects
